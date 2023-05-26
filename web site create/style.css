@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.contant{
+width: 100%;
+height: 150px;
+
+background-color: aquamarine;
+}
+.neva-bar ul li{ 
+    float: left;
+    margin: 20px;
+    list-style: none;
+   
+
+}
+.neva-bar ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    color: brown;
+}
+.contant{
+    text-align: center;
+}
+.neva-bar ul li a:hover{
+    background-color: blue;
+}
+.main{
+
+
+    
+}
+.photo{
+    width: 10px;
+    height: 80px;
+    size: 100px;
+
+}
